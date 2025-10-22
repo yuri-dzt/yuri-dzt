@@ -11,9 +11,11 @@
 ###
 
 <p align="left">
-✨ Frontend developer with strong experience building modern and efficient web applications.<br>
-📚 Currently deepening my knowledge in <strong>backend development</strong> with <strong>Node.js</strong> and <strong>clean architecture</strong>.<br>
-🎯 My goal is to master the entire web stack — from intuitive UIs to scalable APIs.<br>
+💼 Currently working at <strong>GPR</strong> as a Fullstack Developer.<br>
+🎓 Graduated in <strong>Analysis and Systems Development</strong> from <strong>Unilavras</strong>.<br>
+✨ Frontend specialist, passionate about creating practical and elegant web solutions.<br>
+📚 Deepening my knowledge in <strong>backend development</strong> with <strong>Node.js</strong> and <strong>clean architecture</strong>.<br>
+🎯 My goal is to master the entire development flow — from UI to scalable APIs.<br>
 🎷 Fun fact: when I'm not coding, I'm probably playing the saxophone 🎶
 </p>
 
