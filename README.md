@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-✨ Frontend developer with a strong focus on building practical and elegant web interfaces.<br>
+✨ Frontend developer with strong experience building modern and efficient web applications.<br>
 📚 Currently deepening my knowledge in <strong>backend development</strong> with <strong>Node.js</strong> and <strong>clean architecture</strong>.<br>
-🎯 My goal is to master the full development flow — from UI to scalable APIs.<br>
+🎯 My goal is to master the entire web stack — from intuitive UIs to scalable APIs.<br>
 🎷 Fun fact: when I'm not coding, I'm probably playing the saxophone 🎶
 </p>
 
@@ -34,9 +34,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 </div>
 
 ###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuri-dzt&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuri-dzt&layout=compact&theme=tokyonight" height="150" alt="Top languages graph" />
+</div>
