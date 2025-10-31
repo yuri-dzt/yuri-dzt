@@ -16,7 +16,6 @@
 ✨ Frontend specialist, passionate about creating practical and elegant web solutions.<br>
 📚 Deepening my knowledge in <strong>backend development</strong> with <strong>Node.js</strong> and <strong>clean architecture</strong>.<br>
 🎯 My goal is to master the entire development flow — from UI to scalable APIs.<br>
-🎷 Fun fact: when I'm not coding, I'm probably playing the saxophone 🎶
 </p>
 
 ###
