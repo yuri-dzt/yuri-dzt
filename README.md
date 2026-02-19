@@ -49,4 +49,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yuri-dzt&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuri-dzt&layout=compact&theme=tokyonight" height="150" alt="Top languages graph" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yuri-dzt&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yuri-dzt&layout=compact&theme=tokyonight" height="150" alt="Top languages graph" />
 </div>
